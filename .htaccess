@@ -1,0 +1,2 @@
+Header Set Access-Control-Allow-Origin "*"
+Header add Access-Control-Allow-Headers "x-authorization-token,x-authorization-time"
